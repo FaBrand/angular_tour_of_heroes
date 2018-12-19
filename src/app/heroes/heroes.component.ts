@@ -1,5 +1,4 @@
 import { Hero } from '../hero';
-import { HEROES } from '../mock-heroes';
 import { Component, OnInit } from '@angular/core';
 import { HeroService } from '../hero.service';
 
@@ -22,8 +21,5 @@ export class HeroesComponent implements OnInit {
         this.getHeroes();
     }
 
-    goBack(): void {
-      this.location.back();
-    }
 };
 
