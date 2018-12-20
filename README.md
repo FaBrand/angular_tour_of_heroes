@@ -1,6 +1,3 @@
-# angular_tour_of_heroes
-repo to store my code for the angular tour of heros tutorial
-=======
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.3.
